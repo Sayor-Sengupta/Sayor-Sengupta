@@ -7,7 +7,7 @@
 </div>
 
 <img align="right" height="150" src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp?cid=790b7611fi6kiw8zit20xu7erv9v24k5pdoajqq5uvxzta9c&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
-## 🌐 Socials:
+🌐 Socials:
 <div align="left">
   <a href="discordapp.com/users/570690674979242024" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
