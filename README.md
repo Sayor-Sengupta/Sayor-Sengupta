@@ -2,9 +2,7 @@
 <br clear="both">
 <h2 align="center">Hi 👋! My name is Sayor Sengupta and I'm a full stack developer from India</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayor-sengupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 <img align="right" height="150" src="https://media3.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.webp?cid=790b7611fi6kiw8zit20xu7erv9v24k5pdoajqq5uvxzta9c&ep=v1_gifs_search&rid=giphy.webp&ct=g"  />
 🌐 Socials:
@@ -18,6 +16,10 @@
   <a href="https://www.linkedin.com/in/sayorsengupta" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayor-sengupta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 # 💻 Tech Stack:
